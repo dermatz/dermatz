@@ -16,7 +16,14 @@
 <h2 align="center">Skills</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,js,css,sass,php,ts,jquery,nodejs,go,bash,html,gulp,git,md" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,linux,powershell,github,gitlab,docker" /><br> 
-  <img src="https://skillicons.dev/icons?i=xd,figma,photoshop,linux,discord,devto" /><br> 
+  <img src="https://skillicons.dev/icons?i=vscode,idea,linux,powershell,linux,github,gitlab,docker" /><br> 
+  <img src="https://skillicons.dev/icons?i=xd,figma,photoshop,,dicord,devto" /><br> 
 <br><br>
+</p>
+
+<h2 align="center">Social Media</h2>
+<p align="center">
+  <a href="https://www.instagram.com/naturfotografie.elle/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://twitter.com/_dermatz"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.linkedin.com/in/mathias-elle-842783102/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
