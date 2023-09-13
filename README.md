@@ -25,7 +25,7 @@
 <br>
 <h4 align="center">Known, but NOT used anymore</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,jquery,gulp,xd" />
+  <img src="https://skillicons.dev/icons?i=idea,jquery,gulp" />
 </p>
 
 <h2 align="center">Follow me in other channels</h2>
