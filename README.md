@@ -2,9 +2,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Asap&weight=600&duration=2000&pause=1000&color=369CF7&center=true&width=435&lines=Frontend+Senior+Developer;Magento+and+Hyv%C3%A4+Engineer+at+e3n+GmbH;E-Commerce+Specialist;Better+test+then+crying" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img align="center" height="165px" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif">
-</p>
 <br>
 <p align="center">
   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=dermatz&count_private=true&show_icons=true&theme=tokyonight" />  
@@ -34,3 +31,4 @@
   <a href="https://twitter.com/_dermatz"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://www.linkedin.com/in/mathias-elle-842783102/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
+
