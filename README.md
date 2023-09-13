@@ -13,6 +13,10 @@
 </p>
 <br>
 
-<h2 align="left">Skills</h2>
-<img src="https://skillicons.dev/icons?i=js,css,sass,php,ts,jquery,nodejs,go,bash,html,gulp,git" /><br>
-<img src="https://skillicons.dev/icons?i=vscode,xd,photoshop,linkedin,instagram,linux,github,gitlab,discord,docker,devto,figma" /><br>
+<h2 align="center">Skills</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,js,css,sass,php,ts,jquery,nodejs,go,bash,html,gulp,git,md" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,linux,powershell,github,gitlab,docker" /><br> 
+  <img src="https://skillicons.dev/icons?i=xd,figma,photoshop,linux,discord,devto" /><br> 
+<br><br>
+</p>
