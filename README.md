@@ -20,7 +20,7 @@
 <br><br>
 </p>
 
-<h2 align="center">Social Media</h2>
+<h2 align="center">Follow me on social Media</h2>
 <p align="center">
   <a href="https://www.instagram.com/naturfotografie.elle/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://twitter.com/_dermatz"><img src="https://skillicons.dev/icons?i=twitter" /></a>
