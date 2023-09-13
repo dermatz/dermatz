@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,js,css,sass,php,ts,jquery,nodejs,go,bash,html,gulp,git,md" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,idea,linux,powershell,linux,github,gitlab,docker" /><br> 
-  <img src="https://skillicons.dev/icons?i=xd,figma,photoshop,,dicord,devto" /><br> 
+  <img src="https://skillicons.dev/icons?i=xd,figma,photoshop,dicord,devto" /><br> 
 <br><br>
 </p>
 
