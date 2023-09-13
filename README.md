@@ -1,4 +1,4 @@
-<h1 align="center">Hello folks, i'm Mathias Elle <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="display: inline-block; vertical-align: bottom;"></h1>
+<h1 align="center">Hey folks, i'm Mathias Elle <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="display: inline-block; vertical-align: bottom;"></h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Asap&weight=600&duration=2000&pause=1000&color=369CF7&center=true&width=435&lines=Frontend+Senior+Developer;Magento+and+Hyv%C3%A4+Engineer;E-Commerce+Specialist;Automate+things+you+need" alt="Typing SVG" />
 </p>
