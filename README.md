@@ -1,8 +1,9 @@
-<h1 align="center">Hey folks, i'm Mathias Elle <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="display: inline-block; vertical-align: bottom;"></h1>
+<h1 align="center">Hey folks, i'm Mathias Elle</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Asap&weight=600&duration=2000&pause=1000&color=369CF7&center=true&width=435&lines=Frontend+Senior+Developer;Magento+and+Hyv%C3%A4+Engineer;E-Commerce+Specialist;Automate+things+you+need" alt="Typing SVG" />
 </p>
 <p align="center">
+  <img align="center" height="165px" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif">
   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=dermatz&count_private=true&show_icons=true&theme=tokyonight" />  
   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashb1t&layout=compact&theme=aura&langs_count=9" />
 </p>
