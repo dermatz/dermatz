@@ -19,13 +19,13 @@
 <h2 align="center">Skills</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,js,css,sass,php,ts,nodejs,go,bash,html,gulp,git,md" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,linux,powershell,linux,github,gitlab,docker" /><br> 
+  <img src="https://skillicons.dev/icons?i=vscode,linux,powershell,github,gitlab,docker" /><br> 
   <img src="https://skillicons.dev/icons?i=xd,figma,photoshop,discord,devto" /><br> 
 </p>
 <br>
 <h4 align="center">Known, but NOT used anymore</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,jquery" />
+  <img src="https://skillicons.dev/icons?i=idea,jquery,gulp,xd" />
 </p>
 
 <h2 align="center">Follow me in other channels</h2>
