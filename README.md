@@ -4,6 +4,9 @@
 </p>
 <p align="center">
   <img align="center" height="165px" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif">
+</p>
+<br>
+<p align="center">
   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=dermatz&count_private=true&show_icons=true&theme=tokyonight" />  
   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashb1t&layout=compact&theme=aura&langs_count=9" />
 </p>
