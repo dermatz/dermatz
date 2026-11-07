@@ -9,7 +9,7 @@
 </p>
 <br>
 <p align="center">
-  <h2>Follot my other Projects</h2>
+  <h2>Follow my other Projects</h2>
   <a href="https://github.com/OpenForgeProject/mageforge"><img src="https://github.com/OpenForgeProject/mageforge/blob/main/.github/assets/MageForge-Header.png" alt="Typing SVG" /></a>
   <a href="https://tagshuttle.dermatz.de">TagShuttle</a>
 </p>
