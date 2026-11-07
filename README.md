@@ -11,7 +11,7 @@
 <p align="center">
   <h2>Follow my other Projects</h2>
   <a href="https://github.com/OpenForgeProject/mageforge"><img src="https://github.com/OpenForgeProject/mageforge/blob/main/.github/assets/MageForge-Header.png" alt="Typing SVG" /></a>
-  <a href="https://tagshuttle.dermatz.de">TagShuttle</a>
+  <a href="https://tagshuttle.dermatz.de">TagShuttle - Best Stock Photography Workflow</a>
 </p>
 <br>
   <h2 align="center">Follow me in other channels</h2>
