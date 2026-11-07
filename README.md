@@ -9,21 +9,14 @@
 </p>
 <br>
 <p align="center">
-  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dermatz&layout=compact&theme=aura&langs_count=9" />
+  <h2>Follot my other Projects</h2>
+  <a href="https://github.com/OpenForgeProject/mageforge"><img src="https://github.com/OpenForgeProject/mageforge/blob/main/.github/assets/MageForge-Header.png" alt="Typing SVG" /></a>
+  <a href="https://tagshuttle.dermatz.de">TagShuttle</a>
 </p>
 <br>
-<h2 align="center">Skills</h2>
+  <h2 align="center">Follow me in other channels</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,css,html,js,ts" /><br>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,go,bash,git,md" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,powershell,github,gitlab,docker,linux" /><br> 
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,xd,discord,devto" /><br> 
-  <img src="https://skillicons.dev/icons?i=idea,jquery,gulp,sass,less," />
-</p>
-
-<h2 align="center">Follow me in other channels</h2>
-<p align="center">
-  <a href="https://www.instagram.com/fotografie.elle"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.instagram.com/naturfotografie.elle"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://www.linkedin.com/in/mathias-elle/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
